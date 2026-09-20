@@ -63,4 +63,3 @@ g++ -std=c++11 -Wall -Wextra -pedantic main.cpp -o move_demo
 5. `push_back(first)`和`push_back(std::move(first))`有什么区别？
 6. 为什么移动构造函数通常声明为`noexcept`？
 
-

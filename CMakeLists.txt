@@ -13,4 +13,3 @@ endif()
 add_subdirectory(lesson01_vector)
 add_subdirectory(lesson02_move)
 
-
