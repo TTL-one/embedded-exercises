@@ -1,0 +1,23 @@
+# CMake build directories
+build/
+cmake-build-*/
+
+# Compiled binaries and objects
+*.o
+*.obj
+*.exe
+*.out
+lesson01_vector/frame_generator
+lesson01_vector/vector_demo
+lesson02_move/move_demo
+
+# Generated lesson artifacts
+*.pgm
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+
